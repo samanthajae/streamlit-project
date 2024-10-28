@@ -11,7 +11,7 @@ For this project, we sought to enhance efficiency for the Ops team by streamlini
 
 
 ***ENVISIONED OUTCOME***
-The output reduces the processing time significantly, e.g. it may typically take 2-3 personnel around 30 minutes to manually look through 50 articles. With the help of our Summarizer App, it only requires 1 personnel to upload the URLs, launch the app and identify relevant articles within 5-10 minutes.
+The output reduces the processing time to identify and prepare summary slides significantly. It may typically take 2-3 personnel quite a lot of time to manually look through 50 articles. With the help of our Summarizer App, it only requires 1 personnel to identify relevant articles within 5-10 minutes. The App also assists the team in preparing their summary slides, given that key details of date, countries and groups of interest are automatically extracted; the content is also categorized. Personnel need only to cross-check on the accuracy of the summary output and edit the bullet-points as desired.
 
 
 ***IMPORTANT NOTE***
