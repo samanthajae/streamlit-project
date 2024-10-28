@@ -1,0 +1,45 @@
+Summary 1:
+- URL: https://ent.siteintelgroup.com/Jihadist-Threat-Statements/inciting-attacks-on-civiilians-and-embassies-iskp-linked-unit-reminds-jihadists-of-practical-steps-to-fight-the-jews.html
+- Title: Inciting Attacks on Civilians and Embassies: ISKP-Linked Unit Reminds Jihadists of Practical Steps to Fight the Jews
+- Date: 01-10-2023
+- Category: Incitement to Terror
+- City: Unknown
+- State: Unknown
+- Country: Unknown
+- Group(s) of Interest: ISKP (Islamic State Khorasan Province)
+- Source: Site Intelligence Group
+- Content:
+    - ISKP-linked unit issued reminders to jihadists on practical steps to conduct attacks against civilians and embassies.
+    - The group emphasized the importance of targeting Jews and their interests as part of their operational strategy.
+    - Calls for increased violence and attacks were made, highlighting the need for jihadists to remain active and vigilant.
+
+Summary 2:
+- URL: https://www.straitstimes.com/singapore/huge-haul-of-58000-vapes-found-in-cargo-container-as-smuggling-attempt-foiled
+- Title: Huge haul of 58,000 vapes found in cargo container as smuggling attempt foiled
+- Date: 01-10-2023
+- Category: Smuggling
+- City: Singapore
+- State: Unknown
+- Country: Singapore
+- Group(s) of Interest: Unknown
+- Source: The Straits Times
+- Content:
+    - Authorities seized 58,000 vapes in a cargo container, indicating a significant smuggling attempt.
+    - The operation highlights ongoing issues with illegal vape imports in Singapore.
+    - The incident underscores the enforcement efforts against contraband and the potential health risks associated with unregulated vaping products.
+
+Summary 3:
+- URL: https://ent.siteintelgroup.com/Southeast-Asia/southeast-asian-jihadists-laud-sinwar-for-architecting-10-7-attack-anticipate-fierce-hamas-resistance.html
+- Title: Southeast Asian Jihadists Laud Sinwar for Architecting 10/7 Attack, Anticipate Fierce Hamas Resistance
+- Date: 10-10-2023
+- Category: Propaganda
+- City: Unknown
+- State: Unknown
+- Country: Unknown
+- Group(s) of Interest: Hamas, Southeast Asian Jihadists
+- Source: Site Intelligence Group
+- Content:
+    - Southeast Asian jihadist groups praised Hamas leader Yahya Sinwar for orchestrating the October 7 attack against Israel.
+    - Anticipation of strong resistance from Hamas in response to Israeli military actions following the attack.
+    - Emphasis on solidarity with Hamas and calls for continued support for Palestinian causes among jihadist networks.
+
