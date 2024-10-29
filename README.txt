@@ -1,5 +1,5 @@
 ***PROBLEM STATEMENT***
-Key task is to efficiently identify articles/content of interest. Given specific keywords, one of our teams receives hundreds of links via media platform and manually browse links to determine if the content is relevant. This process is time-consuming, tedious and requires several personnel. There is also the challenge of processing articles which are not in English. After identifying relevant content, the team has to prepare slides with key summary information from the articles for presentation.
+Key task is to efficiently identify articles/content of interest. Given specific keywords, one of our teams receives hundreds of links via media platform and manually browses links to determine if the content is relevant. This process is time-consuming, tedious and requires several personnel. There is also the challenge of processing articles which are not in English. After identifying relevant content, the team has to prepare slides with key summary information from the articles for presentation.
 
 
 ***PROJECT OBJECTIVE*** 
