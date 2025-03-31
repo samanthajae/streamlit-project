@@ -19,4 +19,4 @@ We created a Streamlit App version but noticed that the App performs significant
 However, there were no issues faced processing articles with the original Python script. As such, we are also sharing our Python script via Google Collab. 
 
 ***ACCESS LINK***
-https://colab.research.google.com/drive/1aTWoTzpjBqqWP4edVDANscQHZNfuy-4M
+https://colab.research.google.com/drive/1M9taA-ItZsJrZhZPjKKuBcVRvT9cjkqY
